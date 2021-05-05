@@ -8,4 +8,4 @@ Zenodo Link
 https://zenodo.org/record/4739471#.YJL3xLVKhPY
 
 GITHUB.io
-https://pathakvishal1111.github.io/PPT6501/
+https://pathakvishal1111.github.io/ukcrime/
